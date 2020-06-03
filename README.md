@@ -1,4 +1,4 @@
-# logos
+# Logos
 **HEX Color Codes used in Tesoro**
 ```
 Tesoro Black : #000000
